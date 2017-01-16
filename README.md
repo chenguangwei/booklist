@@ -27,21 +27,20 @@
     * apache shiro
     * quartz
     * netty
-    --------------
     #####模板引擎：#####
     * freemarker
     * velocity
-    
+
 
 
 
 
 
 * 工具:
-    搜索：
+    > 搜索：
     * solr
     * elasticsearch
-    -----------------
+    #-----------------
     * kafka
 
 
@@ -59,6 +58,5 @@
 * 持续集成
     * jenkins
     * hudson
-    *
 
 
