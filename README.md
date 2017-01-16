@@ -39,14 +39,7 @@
         * velocity
 
 
-
-
-
-
 ### 工具:
-    * 搜索：
-        * solr
-        * elasticsearch
     * 抓取包工具
         * fidder
     * 作图工具
@@ -65,6 +58,10 @@
     * ngnix
     * kafka
     * activemq
+
+### 搜索：
+        * solr
+        * elasticsearch
 
 ### 持续集成
     * jenkins
