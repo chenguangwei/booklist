@@ -27,9 +27,9 @@
     * apache shiro
     * quartz
     * netty
-    #####模板引擎：#####
-    * freemarker
-    * velocity
+    * 模板引擎：
+        * freemarker
+        * velocity
 
 
 
@@ -37,17 +37,16 @@
 
 
 * 工具:
-    > 搜索：
-    * solr
-    * elasticsearch
-    #-----------------
-    * kafka
-    #####抓取包工具#####
-    * fidder
-    ###作图工具###
-    <p>
-    * sketch
-    </p>
+    * 搜索：
+        * solr
+        * elasticsearch
+    * 中间件
+        * kafka
+        * activemq
+    * 抓取包工具
+        * fidder
+    * 作图工具
+        * sketch
 
 
 * 数据存储
