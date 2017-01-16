@@ -47,9 +47,6 @@
     * 搜索：
         * solr
         * elasticsearch
-    * 中间件
-        * kafka
-        * activemq
     * 抓取包工具
         * fidder
     * 作图工具
@@ -61,10 +58,13 @@
     * mysql
     * redis
     * memcache
+    * hbase
 
 ### 中间件
     * tomcat
     * ngnix
+    * kafka
+    * activemq
 
 ### 持续集成
     * jenkins
