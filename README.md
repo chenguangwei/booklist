@@ -8,11 +8,11 @@
 * [工具](#工具)
 
 ### 语言 ###
-* [java](#java)
-* [python](#python)
-* [Swift](#Swift)
-* [NodeJs](#NodeJs)
-* [scala](#scala)
+* [java](https://github.com/chenguangwei/booklist/blob/master/java.md)
+* [python](https://github.com/chenguangwei/booklist/blob/master/python.md)
+* [Swift](https://github.com/chenguangwei/booklist/blob/master/Swift.md)
+* [NodeJS](https://github.com/chenguangwei/booklist/blob/master/NodeJS.md)
+* [scala](https://github.com/chenguangwei/booklist/blob/master/scala.md)
 
 ### 优秀网站收集 ###
 
