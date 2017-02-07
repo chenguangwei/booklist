@@ -13,3 +13,5 @@ java 语言
 
 
 
+### java 设计模式
+* [java设计模式]（https://github.com/chenguangwei/booklist/blob/master/pattern.md）

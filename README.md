@@ -72,6 +72,7 @@
 ### 算法
 
 ### 设计模式
+* [设计模式](https://github.com/chenguangwei/booklist/blob/master/pattern.md)
 
 ###大数据
 
