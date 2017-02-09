@@ -10,8 +10,6 @@ ETL，是英文 Extract-Transform-Load 的缩写，用来描述将数据从来�
 
 Apache Camel 是一个非常强大的基于规则的路由以及媒介引擎，该引擎提供了一个基于 POJO 的企业应用模式（Enterprise Integration Patterns）的实现，你可以采用其异常强大且十分易用的 API （可以说是一种 Java 的领域定义语言 Domain Specific Language）来配置其路由或者中介的规则。 通过这种领域定义语言，你可以在你的 IDE 中用简单的 Java Code 就可以写出一个类型安全并具有一定智能的规则描述文件。
 
-
-
 主页：http://camel.apache.org/
 
 2、Apache Kafka
