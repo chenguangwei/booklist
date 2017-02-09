@@ -64,7 +64,9 @@ Talend (踏蓝) 是第一家针对的数据集成工具市场的 ETL（数据的
 
 8、kettle
 Kettle是一款国外开源的ETL工具，纯java编写，可以在Window、Linux、Unix上运行，数据抽取高效稳定。
+
 Kettle 中文名称叫水壶，该项目的主程序员MATT 希望把各种数据放到一个壶里，然后以一种指定的格式流出。
+
 Kettle中有两种脚本文件，transformation和job，transformation完成针对数据的基础转换，job则完成整个工作流的控制。
 
 ELT 初探
